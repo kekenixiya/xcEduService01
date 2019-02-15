@@ -1,4 +1,4 @@
-package rabbitmq;
+package com.xuecheng.test.rabbitmq;
 
 import com.rabbitmq.client.BuiltinExchangeType;
 import com.rabbitmq.client.Channel;
